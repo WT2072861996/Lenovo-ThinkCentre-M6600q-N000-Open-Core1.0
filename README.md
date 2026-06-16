@@ -45,3 +45,14 @@ Intel Core i3-6100 | HD 530 → HD 620 | 16 GB DDR4 | B150
 1. Configure BIOS: SATA → AHCI, Secure Boot → Disabled
 2. Copy EFI to USB EFI partition
 3. Boot from USB → OpenCore → Install macOS
+
+
+---
+
+## 📄 许可证
+
+MIT License - 详见 [LICENSE](LICENSE)
+
+> ⚠️ 本教程仅供学习和研究使用
+
+
